@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""The following module defines a function to calculate the floor of a number."""
+"""The following module defines a function to calculate
+the floor of a number."""
 
 import math
 
