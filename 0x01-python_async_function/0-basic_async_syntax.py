@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""The following script is a coroutine that delays a certain amount of time and returns it"""
+"""The following script is a coroutine that delays
+a certain amount of time and returns it"""
 
 import asyncio
 import random
